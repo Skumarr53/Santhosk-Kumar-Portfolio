@@ -34,7 +34,7 @@ Topics: *Regression, sklearn pipeline, Flask, HTML, JQuery, Docker, AWS*
 #### Demo:
 
 ![](https://raw.githubusercontent.com/Skumarr53/Used-Car-Price-Prediction/master/Snapshots/working_app.gif)
-<p align="center"><i>working App developed using Flask</i></p><br>
+<p align="center"><i>working App developed using Flask</i></p>
 
 Built an end-to-end feature transformation and model selection pipeline for predicting the price of used Cars, helping buyers to make an informed purchase. Applied transformation, appropriate techniques for Encoding categories to numbers, then trained various models. **Gradient Boosting Regressor** turns out to be the best model with  Mean Squared Logarithmic Error (MSLE) of **0.033**. Designed an interactive Web application for model deployment using **Flask** framework and Hosted on [**AWS**](http://usedcarpricepredict-env.eba-jdefnbzx.us-east-1.elasticbeanstalk.com/) using Elastic Beanstalk service via **Docker** image.
 
@@ -75,7 +75,7 @@ Topics: *PyTorch, Fastai, Caption Generation, Flask deployment, transfer learnin
 
 #### Demo:
 ![](https://raw.githubusercontent.com/Skumarr53/Image-Caption-Generation-using-Fastai/master/snapshots/caption_gen.gif)
-<p align="center"><i>working App developed using Flask</i></p><br>
+<p align="center"><i>working App developed using Flask</i></p>
 
 Implemented image caption generation method discussed **Show, Attend and Tell** paper using **Fastai** framework to describe the content of images. For encoder part, pre-trained **ResNet50** model is used and **LSTM** for decoder. Achieved **24** **BLEU** score for Beam search size of 5. Designed a Web application for model deployment using the **Flask** framework.
 
