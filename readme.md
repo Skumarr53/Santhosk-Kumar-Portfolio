@@ -12,20 +12,24 @@
   - [Image Caption Generator](#image-caption-generator)
   - [Machine Translation - Transformer based](#machine-translation---transformer-based)
 - [**Web Development**](#web-development)
-  - [Building Portfolio website using Django - Heruko](#building-portfolio-website-using-django---heruko)
+  - [Building Portfolio website using Django - Heruko deployment](#building-portfolio-website-using-django---heruko-deployment)
 ## **Web Scraping**:
 ### [Web crawler for scraping stock fundamentals](https://github.com/Skumarr53/Stock-Fundamental-data-scraping-and-analysis)
 
 Topics: *Web scraping, Automation, Selenium, BeautifulSoup, stock investing*
 
-Built a web crawler to allow investors to choose fundamentally sound stocks for long term investment by generating review plots automatically. Web crawler crawls selected stock pages, scrapes historical stock data, and generates plot on the fly.
+#### Demo:
+![](https://raw.githubusercontent.com/Skumarr53/Stock-Fundamental-data-scraping-and-analysis/master/ScreenShots/WebCrawler_working.gif)
+<p align="center"><i>working demo of Web crawler</i></p>
+
+Built a web crawler to allow investors to choose fundamentally sound stocks for long term investment by generating review plots in automated fashion. Web crawler crawls selected stock pages, scrapes historical stock data, and generates plot on the fly.
 
 -------
 
 
 ## **Machine Learning**
 
-### [Used Car Price Prediction - MachineHack](https://github.com/Skumarr53/Used-Car-Price-Prediction)
+### [Used Car Price Prediction - MachineHack](https://github.com/Skumarr53/Used-Car-Price-Prediction) 
 
 Topics: *Regression, sklearn pipeline, Flask, HTML, JQuery, Docker, AWS* 
 
@@ -62,8 +66,10 @@ Built a recommendation system to make personal movie recommendations based on ea
 
 -------
 
-### [Understanding PCA through image visualization](https://towardsdatascience.com/principal-component-analysis-in-depth-understanding-through-image-visualization-892922f77d9f)
-s
+### [Understanding PCA through image visualization](https://github.com/Skumarr53/Principal-Component-Analysis-testing-on-Image-data)
+
+Topics: *PCA, Image processing, Dimensionlity reduction*
+
 Built a PCA model from scratch in Python, then tested on Multi-spectral satellite image data consisting of 7 band images. The first three Principal components retained **93**% information, thus original data was reduced from 7 dimensions to 3 without losing much information.
 
 -------
@@ -92,7 +98,7 @@ Topics: *PyTorch, NLP, Fastai, Bert transformer, Encoder-Decoder, Streamlit*
 
 ## **Web Development**
 
-### [Building Portfolio website using Django - Heruko](https://skumar-djangoblog.herokuapp.com/blog/)
+### [Building Portfolio website using Django - Heruko deployment](https://skumar-djangoblog.herokuapp.com/blog/)
 Topics: *Web-development, Django, Html, JQuery, Heroku*
 
 **website link**: https://skumar-djangoblog.herokuapp.com/
