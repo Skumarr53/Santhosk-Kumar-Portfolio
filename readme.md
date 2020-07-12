@@ -47,7 +47,7 @@ Built an end-to-end feature transformation and model selection pipeline for pred
 
 Topics: *Sentiment analysis, sklearn pipeline, Text-processing, Word2Vec, Gensim,*
 
-Built a Sentiment analysis tool that classifies reviews to gain an overview of the customer's opinion in real-time. Applied text featurization techniques BOW, TFIDF, Word2Vec, Average Word2Vec, Tfidf weighted word2vec text featurization techniques, then trained various ML models. **Logistic Regression** with **TFIDF** Vectorization turns out to be the best model with AUROC of **0.982** with and **93**% accuracy.
+Built a Sentiment analysis tool that classifies reviews to gain an overview of the customer's opinion in real-time. Applied text featurization techniques BOW, TFIDF, Word2Vec, Average Word2Vec, Tfidf weighted word2vec text featurization techniques, then trained various ML models. **Logistic Regression** with **TFIDF** Vectorization turns out to be the best model with AUROC of **0.982** and **93**% accuracy.
 
 -------
 
@@ -62,7 +62,7 @@ Topics: *Classification, sklearn pipeline, Text-processing, Word2Vec, Gensim, Sp
 
 Topics: *collaborative filtering, Surprise*
 
-Built a recommendation system to make personal movie recommendations based on each customer’s unique tastes. Extracted basic features such as Global average of all movie ratings, Average rating per user, and Average rating per movie, top 5 similar users and movie ratings, and predictions from baseline models.  **XGBoost** turns out to be the best model with **0.967** rmse.
+Built a recommendation system to make personal movie recommendations based on each customer’s unique tastes. Extracted basic features such as Global avg. ratings, avg. rating for each user and movie, Avg. ratings of top similar users and movies, and predictions from **baseline** models.  **XGBoost** turns out to be the best model with **0.967** rmse.
 
 -------
 
