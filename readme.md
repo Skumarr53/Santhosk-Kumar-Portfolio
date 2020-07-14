@@ -91,7 +91,7 @@ Implemented image caption generation method discussed **Show, Attend and Tell** 
 
 Topics: *PyTorch, NLP, Fastai, Bert transformer, Encoder-Decoder, Streamlit*
 
-* Implemented **Transformer** based machine translation method discussed in **Attention Is All You Need** paper using **Fastai** framework to translate queries French-to-English. Achieved **50** **BLEU** score using **BERT** architecture. Designed a Web application for model deployment using **Streamlit** framework.
+Implemented **Transformer** based machine translation method discussed in **Attention Is All You Need** paper using **Fastai** framework to translate queries French-to-English. Achieved **50** **BLEU** score using **BERT** architecture. Designed a Web application for model deployment using **Streamlit** framework.
 
 
 --------
@@ -103,4 +103,4 @@ Topics: *Web-development, Django, Html, JQuery, Heroku*
 
 **website link**: https://skumar-djangoblog.herokuapp.com/
 
-* Developed a personal website using **Django** framework for sharing my ideas and projects. This website is hosted on **Heruko**.
+Developed a personal website using **Django** framework for sharing my ideas and projects. This website is hosted on **Heruko**.
