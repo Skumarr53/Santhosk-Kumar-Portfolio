@@ -12,7 +12,6 @@
   - [Planet Amazon Kaggle](#planet-amazon-kaggle)
   - [Image Caption Generator](#image-caption-generator)
   - [Machine Translation - Transformer based](#machine-translation---transformer-based)
-- [Demo](#demo)
 - [**Web Development**](#web-development)
   - [Building Portfolio website using Django - Heruko deployment](#building-portfolio-website-using-django---heruko-deployment)
 
@@ -21,7 +20,7 @@
 ## **Web Scraping**:
 ### [Web crawler for scraping stock fundamentals](https://github.com/Skumarr53/Stock-Fundamental-data-scraping-and-analysis)
 
-Topics: *Web scraping, Automation, Selenium, BeautifulSoup, stock investing*
+Topics: *Web scraping, Automation, SeleniumP, BeautifulSoup, stock investing*
 
 #### Demo:
 ![](https://raw.githubusercontent.com/Skumarr53/Stock-Fundamental-data-scraping-and-analysis/master/ScreenShots/WebCrawler_working.gif)
@@ -104,7 +103,7 @@ Implemented image caption generation method discussed in **Show, Attend and Tell
 
 Topics: *PyTorch, NLP, Fastai, Bert transformer, Encoder-Decoder, Streamlit*
 
-## Demo
+#### Demo
 
 ![](https://raw.githubusercontent.com/Skumarr53/Attention-is-All-you-Need-PyTorch/master/Snapshots/Fr2En_translate.gif)
 <p align="center"><i>Demo of working App developed using Streamlit</i></p>
