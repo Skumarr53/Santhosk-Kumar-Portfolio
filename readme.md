@@ -108,7 +108,7 @@ Topics: *PyTorch, NLP, Fastai, Bert transformer, Encoder-Decoder, Streamlit*
 ![](https://raw.githubusercontent.com/Skumarr53/Attention-is-All-you-Need-PyTorch/master/Snapshots/Fr2En_translate.gif)
 <p align="center"><i>Demo of working App developed using Streamlit</i></p>
 
-Implemented **Transformer** based machine translation method discussed in **Attention Is All You Need** paper using **Fastai** framework to translate queries French-to-English. Achieved **50** **BLEU** score using **BERT** architecture. Designed a Web application for model deployment using **Streamlit** framework.
+Implemented **Transformer** based machine translation method discussed in **Attention Is All You Need** paper using **Fastai** framework to translate queries French-to-English. Achieved **59** **BLEU** score using **BERT** architecture. Designed a Web application for model deployment using **Streamlit** framework.
 
 
 --------
