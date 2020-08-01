@@ -3,7 +3,7 @@
 - [Web Scraping:](#web-scraping)
   - [Web crawler for scraping stock fundamentals](#web-crawler-for-scraping-stock-fundamentals)
 - [**Machine Learning**](#machine-learning)
-  - [Used Car Price Prediction * MachineHack](#used-car-price-prediction--machinehack)
+  - [Used Car Price Prediction - MachineHack](#used-car-price-prediction---machinehack)
   - [Amazon Food Reviews](#amazon-food-reviews)
   - [Quora Question Similarity](#quora-question-similarity)
   - [Netflix Recommendation: winners solution Implementation](#netflix-recommendation-winners-solution-implementation)
@@ -11,7 +11,7 @@
 - [**Deep Learning**](#deep-learning)
   - [Planet Amazon Kaggle](#planet-amazon-kaggle)
   - [Image Caption Generator](#image-caption-generator)
-  - [Machine Translation * Transformer based](#machine-translation--transformer-based)
+  - [Machine Translation - Transformer based](#machine-translation---transformer-based)
 - [**Web Development**](#web-development)
   - [Building Portfolio website using Django * Heruko deployment](#building-portfolio-website-using-django--heruko-deployment)
 
@@ -34,13 +34,13 @@ Topics: *Web scraping, Automation, Selenium, BeautifulSoup, stock investing*
 
 ## **Machine Learning**
 
-### [Used Car Price Prediction * MachineHack](https://github.com/Skumarr53/Used-Car-Price-Prediction) 
+### [Used Car Price Prediction - MachineHack](https://github.com/Skumarr53/Used-Car-Price-Prediction) 
 
 Topics: *Regression, sklearn pipeline, Flask, HTML, JQuery, Docker, AWS* 
 
 **AWS link**: http://usedcarpricepredict-env.eba-jdefnbzx.us-east-1.elasticbeanstalk.com/
 
-<img alt="Image for post" class="eh te s t u dt ai jy" width="960" height="655" src="https://miro.medium.com/max/912/1*mTh9OWHzFIHu26YT-7NAjw.gif" srcset="https://miro.medium.com/max/262/1*mTh9OWHzFIHu26YT-7NAjw.gif 276w, https://miro.medium.com/max/524/1*mTh9OWHzFIHu26YT-7NAjw.gif 552w, https://miro.medium.com/max/608/1*mTh9OWHzFIHu26YT-7NAjw.gif 640w, https://miro.medium.com/max/665/1*mTh9OWHzFIHu26YT-7NAjw.gif 700w" sizes="700px">
+<div style="text-align:center"><img alt="Image for post" class="eh te s t u dt ai jy" style="max-width:1000%;" height="500" src="https://miro.medium.com/max/912/1*mTh9OWHzFIHu26YT-7NAjw.gif" srcset="https://miro.medium.com/max/262/1*mTh9OWHzFIHu26YT-7NAjw.gif 276w, https://miro.medium.com/max/524/1*mTh9OWHzFIHu26YT-7NAjw.gif 552w, https://miro.medium.com/max/608/1*mTh9OWHzFIHu26YT-7NAjw.gif 640w, https://miro.medium.com/max/665/1*mTh9OWHzFIHu26YT-7NAjw.gif 700w" sizes="700px"></div>
 
 <p align="center"><i>working App developed using Flask</i></p>
 
@@ -54,7 +54,7 @@ Topics: *Regression, sklearn pipeline, Flask, HTML, JQuery, Docker, AWS*
 
 Topics: *Sentiment analysis, sklearn pipeline, Text-processing, Word2Vec, Gensim,*
 
-<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" height="500" src="https://raw.githubusercontent.com/Skumarr53/Amazon-Food-Reviews-Kaggle/master/feature_importances.png" sizes="700px"></div>
+<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" height="350" src="https://raw.githubusercontent.com/Skumarr53/Amazon-Food-Reviews-Kaggle/master/feature_importances.png" sizes="700px"></div>
 
 * Built a Sentiment analysis tool that classifies reviews to gain an overview of the customer's opinion in real-time. 
 * Engineered features from the text using BOW, TFIDF, Word2Vec, Average Word2Vec, Tfidf weighted word2vec featurization techniques
@@ -79,7 +79,7 @@ Topics: *Classification, sklearn pipeline, Text-processing, Word2Vec, Gensim, Sp
 
 Topics: *collaborative filtering, Matrix factorization,Surprise*
 
-<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" height="350" src="https://raw.githubusercontent.com/Skumarr53/Netflix-Recommender-System/master/snapshots/feature_importances.png" sizes="700px"></div>
+<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:85%;" height="350" src="https://raw.githubusercontent.com/Skumarr53/Netflix-Recommender-System/master/snapshots/feature_importances.png" sizes="700px"></div>
 
 * Built a recommendation system to make personal movie recommendations based on each customer’s unique tastes
 * Extracted basic features such as Global avg. ratings, avg. rating for each user and movie, Avg. ratings of top similar users and movies. 
@@ -92,7 +92,7 @@ Topics: *collaborative filtering, Matrix factorization,Surprise*
 
 Topics: *PCA, Image processing, Dimensionality reduction*
 
-<img alt="Image for post" class="fn ui s t u fa ai kq" width="1715" height="834" src="https://miro.medium.com/max/1629/1*XpRCrTrSB-h1rEw-IrrcJQ.png" sizes="1715px">
+<img alt="Image for post" class="fn ui s t u fa ai kq" width="850" height="300" src="https://miro.medium.com/max/1629/1*XpRCrTrSB-h1rEw-IrrcJQ.png" sizes="1715px">
 
 * Built a PCA model from scratch in Python, to test on Multi-spectral satellite image data.
 * The first three Principal components retained **93**% information.
@@ -104,7 +104,7 @@ Topics: *PCA, Image processing, Dimensionality reduction*
 
 Topics: *Multi-label classification, CNN, transfer learning, Fastai*
 
-<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" height="350" src="https://raw.githubusercontent.com/Skumarr53/Planet-Amazon-Kaggle/master/snapshots/show_batch.png" sizes="700px"></div>
+<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" height="500" src="https://raw.githubusercontent.com/Skumarr53/Quora-Question-Similarity-Kaggle/master/BestModel.png" sizes="700px"></div>
 
 * Built CNN model that identifies various atmospheric conditions and classes of land cover/land use, trained with **Fastai**, helping governments and local stakeholders respond more quickly and effectively to deforestation and human encroachment. 
 * Achieved **0.93** f-score using pre-trained **ResNet-50** architecture.
@@ -115,11 +115,7 @@ Topics: *Multi-label classification, CNN, transfer learning, Fastai*
 
 Topics: *PyTorch, Fastai, Caption Generation, Flask deployment, transfer learning, Encoder-Decoder, Beam search*
 
-#### Demo:
-
-<div style="text-align:center"><img class="graf-image" data-image-id="1*5gjyx_9h2yQ6jh6U3XegNg.gif" data-width="960" data-height="680" src="https://cdn-images-1.medium.com/max/760/1*5gjyx_9h2yQ6jh6U3XegNg.gif" data-delayed-src="https://cdn-images-1.medium.com/max/760/1*5gjyx_9h2yQ6jh6U3XegNg.gif"></div>
-
-<p align="center"><i>working App developed using Flask</i></p>
+<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" height="350" src="https://raw.githubusercontent.com/Skumarr53/Image-Caption-Generation-using-Fastai/master/snapshots/caption_gen.gif" sizes="700px"></div>
 
 * Implemented image caption generation method discussed in **Show, Attend and Tell** paper using **Fastai** framework to describe the content of images. 
 * For encoder part, pre-trained **ResNet-101** model is used and **LSTM** for decoder. Achieved **24** **BLEU** score for Beam search size of 5. 
@@ -127,11 +123,13 @@ Topics: *PyTorch, Fastai, Caption Generation, Flask deployment, transfer learnin
 
 -------
 
-### [Machine Translation * Transformer based](https://github.com/Skumarr53/Attention-is-All-you-Need-PyTorch)
+### [Machine Translation - Transformer based](https://github.com/Skumarr53/Attention-is-All-you-Need-PyTorch)
 
 Topics: *PyTorch, NLP, Fastai, Bert transformer, Encoder-Decoder, Streamlit*
 
-<div style="text-align:center"><img class="graf-image" data-image-id="1*_wmdmPZ-RkmbmZYbQ3kMDQ.gif" data-width="960" data-height="575" src="https://cdn-images-1.medium.com/max/760/1*_wmdmPZ-RkmbmZYbQ3kMDQ.gif" data-delayed-src="https://cdn-images-1.medium.com/max/760/1*_wmdmPZ-RkmbmZYbQ3kMDQ.gif"></div>
+<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" height="350" src="https://raw.githubusercontent.com/Skumarr53/Attention-is-All-you-Need-PyTorch/master/Snapshots/Fr2En_translate.gif" sizes="700px"></div>
+<p align="center"><i>working App developed using Flask</i></p>
+
 
 <p align="center"><i>Demo of working App developed using Streamlit</i></p>
 
