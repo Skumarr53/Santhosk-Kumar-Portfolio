@@ -1,6 +1,6 @@
 # List of Projects
 
-- [Web Scraping:](#web-scraping)
+- [**Web Scraping**:](#web-scraping)
   - [Web crawler for scraping stock fundamentals](#web-crawler-for-scraping-stock-fundamentals)
 - [**Machine Learning**](#machine-learning)
   - [Used Car Price Prediction - MachineHack](#used-car-price-prediction---machinehack)
@@ -13,17 +13,17 @@
   - [Image Caption Generator](#image-caption-generator)
   - [Machine Translation - Transformer based](#machine-translation---transformer-based)
 - [**Web Development**](#web-development)
-  - [Building Portfolio website using Django * Heruko deployment](#building-portfolio-website-using-django--heruko-deployment)
+  - [Building Portfolio website using Django - Heruko deployment](#building-portfolio-website-using-django---heruko-deployment)
 
 -----
 
-## Web Scraping:
+## **Web Scraping**:
 ### [Web crawler for scraping stock fundamentals](https://github.com/Skumarr53/Stock-Fundamental-data-scraping-and-analysis)
 
 Topics: *Web scraping, Automation, Selenium, BeautifulSoup, stock investing*
 
 
-<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" height="500" src="https://miro.medium.com/max/950/0*xoT2BTVs0pgWhI-Q.png" srcset="https://miro.medium.com/max/262/0*xoT2BTVs0pgWhI-Q.png 276w, https://miro.medium.com/max/524/0*xoT2BTVs0pgWhI-Q.png 552w, https://miro.medium.com/max/608/0*xoT2BTVs0pgWhI-Q.png 640w, https://miro.medium.com/max/665/0*xoT2BTVs0pgWhI-Q.png 700w" sizes="700px"></div>
+<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000px;" width=60%" height="400" src="https://miro.medium.com/max/950/0*xoT2BTVs0pgWhI-Q.png" srcset="https://miro.medium.com/max/262/0*xoT2BTVs0pgWhI-Q.png 276w, https://miro.medium.com/max/524/0*xoT2BTVs0pgWhI-Q.png 552w, https://miro.medium.com/max/608/0*xoT2BTVs0pgWhI-Q.png 640w, https://miro.medium.com/max/665/0*xoT2BTVs0pgWhI-Q.png 700w" sizes="700px"></div>
 
 * Built a web crawler to allow investors to choose fundamentally sound stocks for long term investment by generating review plots in an automated fashion.
 * Scraped data from over 3000 stock pages from [Screener](https://www.screener.in/) using python and selenium and cleaned up data.
@@ -40,7 +40,7 @@ Topics: *Regression, sklearn pipeline, Flask, HTML, JQuery, Docker, AWS*
 
 **AWS link**: http://usedcarpricepredict-env.eba-jdefnbzx.us-east-1.elasticbeanstalk.com/
 
-<div style="text-align:center"><img alt="Image for post" class="eh te s t u dt ai jy" style="max-width:1000%;" height="500" src="https://miro.medium.com/max/912/1*mTh9OWHzFIHu26YT-7NAjw.gif" srcset="https://miro.medium.com/max/262/1*mTh9OWHzFIHu26YT-7NAjw.gif 276w, https://miro.medium.com/max/524/1*mTh9OWHzFIHu26YT-7NAjw.gif 552w, https://miro.medium.com/max/608/1*mTh9OWHzFIHu26YT-7NAjw.gif 640w, https://miro.medium.com/max/665/1*mTh9OWHzFIHu26YT-7NAjw.gif 700w" sizes="700px"></div>
+<div style="text-align:center"><img alt="Image for post" class="eh te s t u dt ai jy" style="max-width:1000%;"  width=60%" height="350" src="https://miro.medium.com/max/912/1*mTh9OWHzFIHu26YT-7NAjw.gif" srcset="https://miro.medium.com/max/262/1*mTh9OWHzFIHu26YT-7NAjw.gif 276w, https://miro.medium.com/max/524/1*mTh9OWHzFIHu26YT-7NAjw.gif 552w, https://miro.medium.com/max/608/1*mTh9OWHzFIHu26YT-7NAjw.gif 640w, https://miro.medium.com/max/665/1*mTh9OWHzFIHu26YT-7NAjw.gif 700w" sizes="700px"></div>
 
 <p align="center"><i>working App developed using Flask</i></p>
 
@@ -54,7 +54,7 @@ Topics: *Regression, sklearn pipeline, Flask, HTML, JQuery, Docker, AWS*
 
 Topics: *Sentiment analysis, sklearn pipeline, Text-processing, Word2Vec, Gensim,*
 
-<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" height="350" src="https://raw.githubusercontent.com/Skumarr53/Amazon-Food-Reviews-Kaggle/master/feature_importances.png" sizes="700px"></div>
+<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" width="70%" height="300" src="https://raw.githubusercontent.com/Skumarr53/Amazon-Food-Reviews-Kaggle/master/feature_importances.png" sizes="700px"></div>
 
 * Built a Sentiment analysis tool that classifies reviews to gain an overview of the customer's opinion in real-time. 
 * Engineered features from the text using BOW, TFIDF, Word2Vec, Average Word2Vec, Tfidf weighted word2vec featurization techniques
@@ -67,7 +67,7 @@ Topics: *Sentiment analysis, sklearn pipeline, Text-processing, Word2Vec, Gensim
 
 Topics: *Classification, sklearn pipeline, Text-processing, Word2Vec, Gensim, Spacy*
 
-<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" height="500" src="https://raw.githubusercontent.com/Skumarr53/Quora-Question-Similarity-Kaggle/master/BestModel.png" sizes="700px"></div>
+<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" width="55%" height="300" src="https://raw.githubusercontent.com/Skumarr53/Quora-Question-Similarity-Kaggle/master/BestModel.png" sizes="700px"></div>
 
 * Built a Classifier that identifies duplicate questions on Quora to enhance the user experience by instantly providing answers to questions that have already been answered. 
 * Created an NLP transformation pipeline for extracting basic, fuzzy, TFIDF, and Word2Vec features.
@@ -79,7 +79,7 @@ Topics: *Classification, sklearn pipeline, Text-processing, Word2Vec, Gensim, Sp
 
 Topics: *collaborative filtering, Matrix factorization,Surprise*
 
-<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:85%;" height="350" src="https://raw.githubusercontent.com/Skumarr53/Netflix-Recommender-System/master/snapshots/feature_importances.png" sizes="700px"></div>
+<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:85%;" width="40%" height="300" src="https://raw.githubusercontent.com/Skumarr53/Netflix-Recommender-System/master/snapshots/feature_importances.png" sizes="700px"></div>
 
 * Built a recommendation system to make personal movie recommendations based on each customer’s unique tastes
 * Extracted basic features such as Global avg. ratings, avg. rating for each user and movie, Avg. ratings of top similar users and movies. 
@@ -92,7 +92,7 @@ Topics: *collaborative filtering, Matrix factorization,Surprise*
 
 Topics: *PCA, Image processing, Dimensionality reduction*
 
-<img alt="Image for post" class="fn ui s t u fa ai kq" width="850" height="300" src="https://miro.medium.com/max/1629/1*XpRCrTrSB-h1rEw-IrrcJQ.png" sizes="1715px">
+<img alt="Image for post" class="fn ui s t u fa ai kq" width="50%" height="250" src="https://miro.medium.com/max/1629/1*XpRCrTrSB-h1rEw-IrrcJQ.png" sizes="1715px">
 
 * Built a PCA model from scratch in Python, to test on Multi-spectral satellite image data.
 * The first three Principal components retained **93**% information.
@@ -104,7 +104,7 @@ Topics: *PCA, Image processing, Dimensionality reduction*
 
 Topics: *Multi-label classification, CNN, transfer learning, Fastai*
 
-<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" height="500" src="https://raw.githubusercontent.com/Skumarr53/Quora-Question-Similarity-Kaggle/master/BestModel.png" sizes="700px"></div>
+<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" height="350" src="https://raw.githubusercontent.com/Skumarr53/Planet-Amazon-Kaggle/master/snapshots/show_batch.png" sizes="700px"></div>
 
 * Built CNN model that identifies various atmospheric conditions and classes of land cover/land use, trained with **Fastai**, helping governments and local stakeholders respond more quickly and effectively to deforestation and human encroachment. 
 * Achieved **0.93** f-score using pre-trained **ResNet-50** architecture.
@@ -115,7 +115,7 @@ Topics: *Multi-label classification, CNN, transfer learning, Fastai*
 
 Topics: *PyTorch, Fastai, Caption Generation, Flask deployment, transfer learning, Encoder-Decoder, Beam search*
 
-<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" height="350" src="https://raw.githubusercontent.com/Skumarr53/Image-Caption-Generation-using-Fastai/master/snapshots/caption_gen.gif" sizes="700px"></div>
+<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" width="50%" height="350" src="https://raw.githubusercontent.com/Skumarr53/Image-Caption-Generation-using-Fastai/master/snapshots/caption_gen.gif" sizes="700px"></div>
 
 * Implemented image caption generation method discussed in **Show, Attend and Tell** paper using **Fastai** framework to describe the content of images. 
 * For encoder part, pre-trained **ResNet-101** model is used and **LSTM** for decoder. Achieved **24** **BLEU** score for Beam search size of 5. 
@@ -128,9 +128,6 @@ Topics: *PyTorch, Fastai, Caption Generation, Flask deployment, transfer learnin
 Topics: *PyTorch, NLP, Fastai, Bert transformer, Encoder-Decoder, Streamlit*
 
 <div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" height="350" src="https://raw.githubusercontent.com/Skumarr53/Attention-is-All-you-Need-PyTorch/master/Snapshots/Fr2En_translate.gif" sizes="700px"></div>
-<p align="center"><i>working App developed using Flask</i></p>
-
-
 <p align="center"><i>Demo of working App developed using Streamlit</i></p>
 
 * Implemented **Transformer** based neural machine translation method proposed in **Attention Is All You Need** paper using **Fastai** framework to translate queries French-to-English. 
@@ -142,7 +139,7 @@ Topics: *PyTorch, NLP, Fastai, Bert transformer, Encoder-Decoder, Streamlit*
 
 ## **Web Development**
 
-### [Building Portfolio website using Django * Heruko deployment](https://skumar-djangoblog.herokuapp.com/blog/)
+### [Building Portfolio website using Django - Heruko deployment](https://skumar-djangoblog.herokuapp.com/blog/)
 Topics: *Web-development, Django, Html, JQuery, Heroku*
 
 **website link**: https://skumar-djangoblog.herokuapp.com/
