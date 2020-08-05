@@ -1,22 +1,21 @@
 # List of Projects
 
 - [**Web Scraping**:](#web-scraping)
-  - [Web crawler for scraping stock fundamentals](#web-crawler-for-scraping-stock-fundamentals)
+  - [Web crawler for scraping stock fundamentals](#web-crawler-for-scraping-stock-fundamentals)
 - [**Machine Learning**](#machine-learning)
-  - [Used Car Price Prediction - MachineHack](#used-car-price-prediction---machinehack)
-  - [Amazon Food Reviews](#amazon-food-reviews)
-  - [Quora Question Similarity](#quora-question-similarity)
-  - [Netflix Recommendation: winners solution Implementation](#netflix-recommendation-winners-solution-implementation)
-  - [Understanding PCA through image visualization](#understanding-pca-through-image-visualization)
+  - [Used Car Price Prediction - MachineHack](#used-car-price-prediction---machinehack)
+  - [Amazon Food Reviews](#amazon-food-reviews)
+  - [Quora Question Similarity](#quora-question-similarity)
+  - [Netflix Recommendation: winners solution Implementation](#netflix-recommendation-winners-solution-implementation)
+  - [Understanding PCA through image visualization](#understanding-pca-through-image-visualization)
 - [**Deep Learning**](#deep-learning)
-  - [Planet Amazon Kaggle](#planet-amazon-kaggle)
-  - [Image Caption Generator](#image-caption-generator)
-  - [Machine Translation - Transformer based](#machine-translation---transformer-based)
+  - [Planet Amazon Kaggle](#planet-amazon-kaggle)
+  - [Image Caption Generator](#image-caption-generator)
+  - [Machine Translation - Transformer based](#machine-translation---transformer-based)
 - [**Web Development**](#web-development)
-  - [Building Portfolio website using Django - Heruko deployment](#building-portfolio-website-using-django---heruko-deployment)
+  - [Building Portfolio website using Django - Heruko deployment](#building-portfolio-website-using-django---heruko-deployment)
 
 -----
-
 ## **Web Scraping**:
 ### [Web crawler for scraping stock fundamentals](https://github.com/Skumarr53/Stock-Fundamental-data-scraping-and-analysis)
 
@@ -31,8 +30,6 @@ Topics: *Web scraping, Automation, Selenium, BeautifulSoup, stock investing*
 * Web crawler crawls selected stock pages, scrapes historical stock data, and generates plot on the fly. 
 
 -------
-
-
 ## **Machine Learning**
 
 ### [Used Car Price Prediction - MachineHack](https://github.com/Skumarr53/Used-Car-Price-Prediction) 
