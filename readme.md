@@ -43,6 +43,8 @@ Topics: *Regression, sklearn pipeline, Flask, HTML, JQuery, Docker, AWS*
 
 <div style="text-align:center"><img alt="Image for post" class="eh te s t u dt ai jy" style="max-width:1000%;"  width="500" height="320" src="https://miro.medium.com/max/912/1*mTh9OWHzFIHu26YT-7NAjw.gif" srcset="https://miro.medium.com/max/262/1*mTh9OWHzFIHu26YT-7NAjw.gif 276w, https://miro.medium.com/max/524/1*mTh9OWHzFIHu26YT-7NAjw.gif 552w, https://miro.medium.com/max/608/1*mTh9OWHzFIHu26YT-7NAjw.gif 640w, https://miro.medium.com/max/665/1*mTh9OWHzFIHu26YT-7NAjw.gif 700w" sizes="700px"></div>
 
+<img alt="Image for post" class="eh te s t u dt ai jy" width="960" height="655" src="https://miro.medium.com/max/912/1*mTh9OWHzFIHu26YT-7NAjw.gif" srcset="https://miro.medium.com/max/262/1*mTh9OWHzFIHu26YT-7NAjw.gif 276w, https://miro.medium.com/max/524/1*mTh9OWHzFIHu26YT-7NAjw.gif 552w, https://miro.medium.com/max/608/1*mTh9OWHzFIHu26YT-7NAjw.gif 640w, https://miro.medium.com/max/665/1*mTh9OWHzFIHu26YT-7NAjw.gif 700w" sizes="700px">
+
 <p align="center"><i>working App developed using Flask</i></p>
 
 * Built an end-to-end feature transformation and model selection pipeline for predicting the price of used Cars, helping buyers to make an informed purchase.
