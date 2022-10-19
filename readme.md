@@ -10,7 +10,7 @@
     - [Netflix Recommendation: winners solution Implementation](#netflix-recommendation-winners-solution-implementation)
     - [Understanding PCA through image visualization](#understanding-pca-through-image-visualization)
   - [**Deep Learning**](#deep-learning)
-    - [[YOLOv7 Amenity Detection [Video Analytics]](https://github.com/Skumarr53/Amenity-Detection-YOLOv7)](#yolov7-amenity-detection-video-analytics)
+    - [YOLOv7 Amenity Detection | Video Analytics](#yolov7-amenity-detection--video-analytics)
     - [CheckBox Classification](#checkbox-classification)
     - [Image Caption Generator](#image-caption-generator)
     - [Machine Translation - Transformer based](#machine-translation---transformer-based)
@@ -105,12 +105,13 @@ Topics: *PCA, Image processing, Dimensionality reduction*
 -------
 ## **Deep Learning**
 
-### [YOLOv7 Amenity Detection [Video Analytics]](https://github.com/Skumarr53/Amenity-Detection-YOLOv7)
+### [YOLOv7 Amenity Detection | Video Analytics](https://github.com/Skumarr53/Amenity-Detection-YOLOv7)
 Topics: *Video Analytics, Object detection, Pytorch, YOLOv7*
 
 https://user-images.githubusercontent.com/17452684/196499102-5f0be047-8640-4292-a501-b4db3cfc8fa2.mp4
 
-<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" width="450" height="400" src="https://user-images.githubusercontent.com/17452684/196499102-5f0be047-8640-4292-a501-b4db3cfc8fa2.mp4" sizes="700px"></div>
+<div style="text-align:center"><video alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" width="450" height="400" src="https://user-images.githubusercontent.com/17452684/196499102-5f0be047-8640-4292-a501-b4db3cfc8fa2.mp4" sizes="700px"></div>
+<p align="center"><i>Working of Amenties detection in real-time</i></p>
 
 * Implemented **YOLOv7** Model to detect Amenities present in the **Video** in real time.
 * Model weights trained on the COCO dataset for detecting object boundaries to bench mark results.
