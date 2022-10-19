@@ -1,19 +1,21 @@
 # List of Projects
 
-- [**Web Scraping**:](#web-scraping)
-  - [Web crawler for scraping stock fundamentals](#web-crawler-for-scraping-stock-fundamentals)
-- [**Machine Learning**](#machine-learning)
-  - [Used Car Price Prediction - MachineHack](#used-car-price-prediction---machinehack)
-  - [Amazon Food Reviews](#amazon-food-reviews)
-  - [Quora Question Similarity](#quora-question-similarity)
-  - [Netflix Recommendation: winners solution Implementation](#netflix-recommendation-winners-solution-implementation)
-  - [Understanding PCA through image visualization](#understanding-pca-through-image-visualization)
-- [**Deep Learning**](#deep-learning)
-  - [Planet Amazon Kaggle](#planet-amazon-kaggle)
-  - [Image Caption Generator](#image-caption-generator)
-  - [Machine Translation - Transformer based](#machine-translation---transformer-based)
-- [**Web Development**](#web-development)
-  - [Building Portfolio website using Django - Heruko deployment](#building-portfolio-website-using-django---heruko-deployment)
+- [List of Projects](#list-of-projects)
+  - [**Web Scraping**:](#web-scraping)
+    - [Web crawler for scraping stock fundamentals](#web-crawler-for-scraping-stock-fundamentals)
+  - [**Machine Learning**](#machine-learning)
+    - [Used Car Price Prediction - MachineHack](#used-car-price-prediction---machinehack)
+    - [Amazon Food Reviews](#amazon-food-reviews)
+    - [Quora Question Similarity](#quora-question-similarity)
+    - [Netflix Recommendation: winners solution Implementation](#netflix-recommendation-winners-solution-implementation)
+    - [Understanding PCA through image visualization](#understanding-pca-through-image-visualization)
+  - [**Deep Learning**](#deep-learning)
+    - [[YOLOv7 Amenity Detection [Video Analytics]](https://github.com/Skumarr53/Amenity-Detection-YOLOv7)](#yolov7-amenity-detection-video-analytics)
+    - [CheckBox Classification](#checkbox-classification)
+    - [Image Caption Generator](#image-caption-generator)
+    - [Machine Translation - Transformer based](#machine-translation---transformer-based)
+  - [**Web Development**](#web-development)
+    - [Building Portfolio website using Django - Heruko deployment](#building-portfolio-website-using-django---heruko-deployment)
 
 -----
 ## **Web Scraping**:
@@ -103,14 +105,28 @@ Topics: *PCA, Image processing, Dimensionality reduction*
 -------
 ## **Deep Learning**
 
-### [Planet Amazon Kaggle](https://github.com/Skumarr53/Planet-Amazon-Kaggle)
+### [YOLOv7 Amenity Detection [Video Analytics]](https://github.com/Skumarr53/Amenity-Detection-YOLOv7)
+Topics: *Video Analytics, Object detection, Pytorch, YOLOv7*
 
-Topics: *Multi-label classification, CNN, transfer learning, Fastai*
+https://user-images.githubusercontent.com/17452684/196499102-5f0be047-8640-4292-a501-b4db3cfc8fa2.mp4
 
-<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" width="450" height="400" src="https://raw.githubusercontent.com/Skumarr53/Planet-Amazon-Kaggle/master/snapshots/show_batch.png" sizes="700px"></div>
+<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" width="450" height="400" src="https://user-images.githubusercontent.com/17452684/196499102-5f0be047-8640-4292-a501-b4db3cfc8fa2.mp4" sizes="700px"></div>
 
-* Built CNN model that identifies various atmospheric conditions and classes of land cover/land use, trained with **Fastai**, helping governments and local stakeholders respond more quickly and effectively to deforestation and human encroachment. 
-* Achieved **0.93** f-score using pre-trained **ResNet-50** architecture.
+* Implemented **YOLOv7** Model to detect Amenities present in the **Video** in real time.
+* Model weights trained on the COCO dataset for detecting object boundaries to bench mark results.
+* Fine-tuned model on our custom Amenity data set 
+
+-------
+
+### [CheckBox Classification](https://github.com/Skumarr53/CheckBoxClassification)
+
+Topics: *CNN, OpenCV, Deep Learning*
+
+<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" width="450" height="300" src="https://raw.githubusercontent.com/Skumarr53/CheckBoxClassification/master/imgs/Classification3.png" sizes="700px"></div>
+
+* Implemented a solution to identify checkboxes in documents and determine whether they are checked.
+* **OpenCV** based open-source library "BoxDetect" is used to detect checkboxes within the document.
+* CNN model (LeNet) trained to recognize ticked boxes achieved **99%** accuracy.
 
 -------
 
