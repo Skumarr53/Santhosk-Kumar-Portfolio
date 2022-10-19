@@ -109,7 +109,7 @@ Topics: *PCA, Image processing, Dimensionality reduction*
 Topics: *Video Analytics, Object detection, Pytorch, YOLOv7*
 
 <div style="text-align:center">
-<video width="450" height="400" controls>
+<video width="600" height="400" controls>
   <source src="https://user-images.githubusercontent.com/17452684/196499102-5f0be047-8640-4292-a501-b4db3cfc8fa2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
