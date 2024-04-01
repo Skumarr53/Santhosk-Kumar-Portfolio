@@ -138,7 +138,7 @@ Topics: *PyTorch, Fastai, Caption Generation, Flask deployment, transfer learnin
 Topics: *Pose Estimation, Object detection, Detectron2, Pytorch, YOLOv7*
 
 
-<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" width="500" height="350" src="https://raw.githubusercontent.com/Skumarr53/Animall-Pose-Detection/main/web_app/App_demo_sample.png?token=GHSAT0AAAAAACNLGD6MGXAOQUONBVOTIMLCZQKN4TQ" sizes="700px"></div>
+<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" width="500" height="350" src="https://raw.githubusercontent.com/Skumarr53/Animall-Pose-Detection/main/web_app/App_demo_sample.png?token=GHSAT0AAAAAACNLGD6MGXAOQUONBVOTIMLCZQKN4TQ" sizes="850px"></div>
 <p align="center"><i>Pose dectection app</i></p>
 
 * Developed the Animall Pose Detection system using a custom dataset of 15,000 images, applying **Detectron2** with the **Faster R-CNN** architecture for accurate pose classification.
