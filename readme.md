@@ -122,12 +122,24 @@ Topics: *Video Analytics, Object detection, Pytorch, YOLOv7*
 * Fine-tuned model on our custom Amenity data set 
 
 -------
+### [Image Caption Generator](https://github.com/Skumarr53/Image-Caption-Generation-using-Fastai)
+
+Topics: *PyTorch, Fastai, Caption Generation, Flask deployment, transfer learning, Encoder-Decoder, Beam search*
+
+<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" width="500" height="350" src="https://raw.githubusercontent.com/Skumarr53/Image-Caption-Generation-using-Fastai/master/snapshots/caption_gen.gif" sizes="700px"></div>
+<p align="center"><i>Working caption generation app</i></p>
+
+* Implemented image caption generation method discussed in **Show, Attend and Tell** paper using **Fastai** framework to describe the content of images. 
+* For encoder part, pre-trained **ResNet-101** model is used and **LSTM** for decoder. Achieved **24** **BLEU** score for Beam search size of 5. 
+* Designed a Web application and built a client-facing API using **Flask** framework.
+
+-------
 ### [Animal Pose Detection](https://github.com/Skumarr53/Animall-Pose-Detection)
 Topics: *Pose Estimation, Object detection, Detectron2, Pytorch, YOLOv7*
 
 
-<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" width="500" height="350" src="https://github.com/Skumarr53/Animall-Pose-Detection/blob/main/web_app/App_demo_sample.png" sizes="700px"></div>
-<p align="center"><i>Working caption generation app</i></p>
+<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" width="500" height="350" src="https://raw.githubusercontent.com/Skumarr53/Animall-Pose-Detection/main/web_app/App_demo_sample.png?token=GHSAT0AAAAAACNLGD6MGXAOQUONBVOTIMLCZQKN4TQ" sizes="700px"></div>
+<p align="center"><i>Pose dectection app</i></p>
 
 * Developed the Animall Pose Detection system using a custom dataset of 15,000 images, applying **Detectron2** with the **Faster R-CNN** architecture for accurate pose classification.
 * Achieved significant model precision in identifying animal poses with low total loss metrics.
@@ -146,19 +158,6 @@ Topics: *CNN, OpenCV, Deep Learning*
 * Implemented a solution to identify checkboxes in documents and determine whether they are checked.
 * **OpenCV** based open-source library "BoxDetect" is used to detect checkboxes within the document.
 * CNN model (LeNet) trained to recognize ticked boxes achieved **99%** accuracy.
-
--------
-
-### [Image Caption Generator](https://github.com/Skumarr53/Image-Caption-Generation-using-Fastai)
-
-Topics: *PyTorch, Fastai, Caption Generation, Flask deployment, transfer learning, Encoder-Decoder, Beam search*
-
-<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" width="500" height="350" src="https://raw.githubusercontent.com/Skumarr53/Image-Caption-Generation-using-Fastai/master/snapshots/caption_gen.gif" sizes="700px"></div>
-<p align="center"><i>Working caption generation app</i></p>
-
-* Implemented image caption generation method discussed in **Show, Attend and Tell** paper using **Fastai** framework to describe the content of images. 
-* For encoder part, pre-trained **ResNet-101** model is used and **LSTM** for decoder. Achieved **24** **BLEU** score for Beam search size of 5. 
-* Designed a Web application and built a client-facing API using **Flask** framework.
 
 -------
 
