@@ -11,6 +11,7 @@
     - [Understanding PCA through image visualization](#understanding-pca-through-image-visualization)
   - [**Deep Learning**](#deep-learning)
     - [YOLOv7 Amenity Detection Video Analytics](#yolov7-amenity-detection-video-analytics)
+    - [Animal Pose Detection](#animal-pose-detection)
     - [CheckBox Classification](#checkbox-classification)
     - [Image Caption Generator](#image-caption-generator)
     - [Machine Translation - Transformer based](#machine-translation---transformer-based)
