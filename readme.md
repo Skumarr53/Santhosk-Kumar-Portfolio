@@ -121,6 +121,20 @@ Topics: *Video Analytics, Object detection, Pytorch, YOLOv7*
 * Fine-tuned model on our custom Amenity data set 
 
 -------
+### [Animal Pose Detection](https://github.com/Skumarr53/Animall-Pose-Detection)
+Topics: *Pose Estimation, Object detection, Detectron2, Pytorch, YOLOv7*
+
+
+<div style="text-align:center"><img alt="Image for post" class="ir is ab ac ae fw v hd" style="max-width:1000%;" width="500" height="350" src="https://github.com/Skumarr53/Animall-Pose-Detection/blob/main/web_app/App_demo_sample.png" sizes="700px"></div>
+<p align="center"><i>Working caption generation app</i></p>
+
+* Developed the Animall Pose Detection system using a custom dataset of 15,000 images, applying **Detectron2** with the **Faster R-CNN** architecture for accurate pose classification.
+* Achieved significant model precision in identifying animal poses with low total loss metrics.
+* Designed a Flask-based web application enabling real-time pose detection from user-uploaded images.
+* Enabled seamless deployment options, including Docker and Kubernetes, for scalable application delivery.
+
+
+-------
 
 ### [CheckBox Classification](https://github.com/Skumarr53/CheckBoxClassification)
 
